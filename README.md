@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on **WeThere**
 
-- 🌱 I’m currently learning **Big Data, Android Development**
-
-- 💬 Let's talk about **Mobile Development and Data**
-
-- 🤔 I’m looking for **involving in the workplace**
-
 - 📫 How to reach me: **sybelfrancois37@gmail.com/sfrancois24@cmc.edu**
 
 - ⚡ Fun fact: **Some people believe I am funny**
