@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 
 <div style="position: absolute; top: 0; right: 0;">
-  <p align="right"><strong>⚡ He believes he can, he then has started to code</strong></p>
+  <p align="right"><strong>👨‍💻 He believes he can, he then has started to code</strong></p>
 </div>
 
 
