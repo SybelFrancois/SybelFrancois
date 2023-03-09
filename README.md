@@ -7,7 +7,7 @@
                                                                                                             
 - 🔭 I’m currently working on **WeThere**                                                     
 - 📫 You can reach me @: **sybelfrancois37@gmail.com**
-- 👯 Seeking new opportunities to collaborate on coding projects and contribute to open source
+- 👯 I'm open to coding collaborations and open source contributions
 - 🌱 I’m currently learning Python and Kotlin
 - ⚡ Fun fact: Some people believe I am funny
 - 😄 Pronouns: He/Him
