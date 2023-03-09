@@ -2,11 +2,8 @@
 <h3 align="center">A passionate programmer who wants to contribute to create a better world with tech.</h3>
 
 - 🔭 I’m currently working on **WeThere**
-
-- 📫 How to reach me: **sybelfrancois37@gmail.com/sfrancois24@cmc.edu**
-
+- 📫 How to reach me: **sybelfrancois37@gmail.com**
 - ⚡ Fun fact: **Some people believe I am funny**
-
 - 😄 Pronouns: **He/Him**
 
 <h3 align="left">Connect with me:</h3>
