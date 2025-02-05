@@ -13,7 +13,7 @@
   
 
 <div style="position: absolute; top: 0; right: 0;">
-  <p align="right"><strong>👨‍💻 He believes he can, he then has started to try things</strong></p>
+  <p align="right"><strong>👨‍💻 He believes he can, he then has started to try things out...</strong></p>
 </div>
 
 
