@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sybel Francois</h1>
-<h3 align="center">A programmer who is trying to discover his passion through coding...</h3>
+<h3 align="center">A Product Manager who is trying to discover his passion, and the contributions he can make in this world....</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
