@@ -7,10 +7,10 @@
                                                                                                             
 - 🔭 I’m currently working on **WeThere**                                                     
 - 📫 You can reach me @: **sybelfrancois37@gmail.com**
-- 👯 I'm open to coding collaborations and open source contributions
-- 🌱 I’m currently learning Python and Kotlin
-- ⚡ Fun fact: Some people believe I am funny
-- 😄 Pronouns: He/Him
+- 👯 I'm open to collaborations and open source contributions
+- 🌱 I’m currently learning how to best use AI/ML
+- 😄 Fun fact: Some people believe I am funny 
+  
 
 <div style="position: absolute; top: 0; right: 0;">
   <p align="right"><strong>👨‍💻 He believes he can, he then has started to code</strong></p>
